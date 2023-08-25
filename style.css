@@ -1,0 +1,28 @@
+.ribs, .friedrice, .burgers, .home {
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 800;
+}
+
+p, ul, ol {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ribs {
+    background-color: brown;
+    color: white;
+}
+
+.home {
+    background-color: black;
+    color: white;
+}
+
+.friedrice {
+    background-color: green;
+    color: white;
+}
+
+.burgers {
+    background-color: blue;
+    color: white;
+}
